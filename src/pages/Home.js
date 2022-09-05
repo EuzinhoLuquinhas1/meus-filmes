@@ -8,6 +8,10 @@ export default function Home (){
          <Text>Meus Filmes</Text>
          <Text>Olá Lucas, Boa Noite!!</Text>
 
+         <TouchableOpacity>
+             <Text>Adicionar</Text>
+         </TouchableOpacity>
+         
      </View>
     );
 }
